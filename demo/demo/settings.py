@@ -131,3 +131,5 @@ AUTH_USER_MODEL = 'users.CustomUser'
 #         settings.AUTH_USER_MODEL,
 #         on_delete=models.CASCADE,
 #     )
+
+STATIC_ROOT = "/home/Qahramonov/hotel/demo/app/static"
