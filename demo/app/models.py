@@ -15,4 +15,4 @@ class Feedback(models.Model):
         verbose_name_plural = 'Name'
 
     def __str__(self):
-        return self.name + number
+        return self.name

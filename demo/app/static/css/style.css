@@ -51,13 +51,9 @@
   background-color:var(--brown--) ;
 }
 
-#myVideo {
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+#reception{
+  height: 60vh;
 }
-
 
 bg-brown{
   background: var(--brown--) !important;
