@@ -133,4 +133,4 @@ AUTH_USER_MODEL = 'users.CustomUser'
 #         on_delete=models.CASCADE,
 #     )
 
-STATIC_ROOT = os.path.join(BASE_DIR, "static")
+STATIC_ROOT = "/home/Qahramonov/hotel/demo/static"
