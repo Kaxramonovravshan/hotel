@@ -133,4 +133,4 @@ AUTH_USER_MODEL = 'users.CustomUser'
 #         on_delete=models.CASCADE,
 #     )
 
-STATIC_ROOT = "/home/Qahramonov/hotel/demo/static"
+STATIC_ROOT = "/home/Qahramonov/hotel/demo/app/static"
