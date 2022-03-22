@@ -1,4 +1,6 @@
-
+*{
+  scroll-behavior: smooth;
+}
 
 :root{
     --red--: #ff4d4d;
@@ -49,10 +51,6 @@
 
 .footer{
   background-color:var(--brown--) ;
-}
-
-#reception{
-  height: 60vh;
 }
 
 bg-brown{
