@@ -36,13 +36,6 @@
       --brown--: #462E21FF;
 }
 
-.navbar_fixed{
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
 
 .footer1{
   font-weight: 30 !important;
@@ -388,6 +381,10 @@ bg-brown{
   .navbar-container {
     border-bottom: none;
     
+  }
+
+  .navbar_fixed{
+    position: sticky !important;
   }
 
   .navbar {
