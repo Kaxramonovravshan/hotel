@@ -68,6 +68,15 @@ bg-brown{
 
   /* Navbar */
   
+  .navabr_sticky{
+    position: sticky !important;
+    z-index: 999 !important;
+    top: 0 !important;  
+    left: 0 !important;
+    background-color: red !important;
+  }
+
+
   .navbar .logo img{
     width: 88px;
   }
@@ -381,10 +390,6 @@ bg-brown{
   .navbar-container {
     border-bottom: none;
     
-  }
-
-  .navbar_fixed{
-    position: sticky !important;
   }
 
   .navbar {
